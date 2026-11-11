@@ -1,6 +1,0 @@
-{
-  "name": "InterviewMan AI - Real-Time Interview Copilot",
-  "description": "Real-time AI prompting, sentiment analysis, and transparent HUD overlay for interviewees during live calls.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
